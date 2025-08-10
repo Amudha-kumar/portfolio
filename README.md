@@ -1,4 +1,4 @@
-# Amudha's Full-Stack Development Portfolio
+# Amudha's Full-Stack Developer
 
 Welcome to my full-stack development portfolio!  
 This repository showcases my expertise in **front-end** and **back-end** development, building complete and scalable web applications.
@@ -25,7 +25,7 @@ This repository showcases my expertise in **front-end** and **back-end** develop
 
 ## 📬 Contact
 - **Email:** amudhakumar1211@gmail.com
-- **GitHub** [Your LinkedIn](https://github.com/Amudha-kumar)
+- **GitHub** [Visit Here](https://github.com/Amudha-kumar)
 - **LinkedIn:** [Visit Here](https://www.linkedin.com/in/amudha-k-7b83a5344/)
 - **Portfolio Website:** [Visit Here](https://www.linkedin.com/in/amudha-k-7b83a5344/)
 
