@@ -1,4 +1,4 @@
-# Amudha's Full-Stack Developer
+# Amudha Full-Stack Developer
 
 Welcome to my full-stack development portfolio!  
 This repository showcases my expertise in **front-end** and **back-end** development, building complete and scalable web applications.
