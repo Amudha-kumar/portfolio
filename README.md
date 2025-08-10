@@ -14,8 +14,7 @@ This repository showcases my expertise in **front-end** and **back-end** develop
 **Frontend:** HTML, CSS, JavaScript, React  
 **Backend:** Node.js, Express  
 **Database:** MongoDB / MySQL  
-**Version Control:** Git, GitHub  
-**Deployment:** Vercel, Netlify, Heroku
+**Version Control:** Git, GitHub
 
 ## 📂 Projects
 1. **Project 1:** [Live Demo](https://amudha-kumar.github.io/udemy-clone/)
